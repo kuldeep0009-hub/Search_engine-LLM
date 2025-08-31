@@ -1,0 +1,27 @@
+# Core LangChain
+streamlit
+langchain==0.2.27
+langchain-core==0.2.27
+langchain-community==0.0.256
+langchain-openai
+langchain-huggingface
+
+# Utilities
+python-dotenv
+ipykernel
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+duckdb
+pandas
+openai
+validators
+youtube-transcript-api
+gradio
+numexpr
+
+# Removed langchain-groq, chromadb, langchain-chroma, faiss-cpu, langchain-yt-dlp
+# These either break deploy or need GPU/custom setup
