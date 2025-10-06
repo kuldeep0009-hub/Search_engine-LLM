@@ -29,3 +29,4 @@ langchain-groq
 numexpr
 langchain_yt_dlp
 gradio
+duckduckgo-search>=5.3.0
